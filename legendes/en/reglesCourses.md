@@ -25,6 +25,7 @@ Tip: You can speed up the Movement phase if you use colored dice. For example, i
 
 ## Your teammates
 
+You have 2 teammates that share the same deck.
 During the Energy Phase, consider your teammates as a second rider. As in the original game, you choose if you start with your main rider or with your teammates.
 
 When you pick cards for your teammates, draw 6 from the deck. You have to choose 2 among these 6. Recycle the others as usual.

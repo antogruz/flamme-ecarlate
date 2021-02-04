@@ -23,9 +23,9 @@ Les paliers de talents sont donnés plus loin pour chaque type de coureur.
 
 Choisissez à l'avance, au hasard, les 5 étapes qui composeront le tour. Vous pouvez tirer 5 cartes étapes, ou utiliser un autre moyen, pour générer à l'avance 5 étapes. Prenez-les en compte en choisissant vos talents !
 
-Les étapes sont de plus en plus difficiles pendant ce tour. Vous allez ajuster les étapes en ajoutant des sections.
-À partir de la 2ème étape: ajoutez une section de ligne droite aléatoire juste après le départ
-À partir de la 4ème étape: ajoutez (en plus) une section de ligne droite aléatoire juste avant l'arrivée
+Les étapes sont de plus en plus difficiles pendant ce tour. Vous allez ajuster les étapes en ajoutant des sections.  
+À partir de la 2ème étape : ajoutez une section de ligne droite aléatoire juste après le départ  
+À partir de la 4ème étape : ajoutez (en plus) une section de ligne droite aléatoire juste avant l'arrivée
 
 D'un point de vue logistique, si vous n'avez pas l'extension peloton, utilisez une section de la course que vous remettrez en place une fois que les coureurs seront passés (ou l'inverse pour l'arrivée).
 

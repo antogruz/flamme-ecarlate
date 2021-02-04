@@ -4,7 +4,7 @@ The game is played as a Grand Tour (see the Flamme Rouge variant "Grand Tour" ru
 
 ## Rules adaptation
 
-In this game, you won't remove exhaustion cards from your deck between races.
+In this game, you don't remove exhaustion cards from your deck between races.
 
 Also, you will start the game with a base handicap of 2 exhaustion cards. You can decide to adapt this number for your next games for more challenge.
 
@@ -23,8 +23,8 @@ The talents are listed after for each type of rider.
 
 Before starting the tour, set the 5 stages of the tour at random. You can draw 5 stages cards, or use any other mean to generate 5 stages. Use that knowledge to pick well your talents!
 
-The stages are going to be harder and harder during the tour. You have to modify the stages by adding track tiles.
-From the second stage: Add a random straight tile right after the start tile.
+The stages are going to be harder and harder during the tour. You have to modify the stages by adding track tiles.  
+From the 2nd stage: Add a random straight tile right after the start tile.  
 From the 4th stage: Add also a random straight tile right before the end tile.
 
 Logistic: If you don't have the peloton expansion, use a tile of the stage that you will put back in place when the riders have crossed it (or the opposite for the tile next to the finish line).

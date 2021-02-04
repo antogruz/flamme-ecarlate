@@ -3,28 +3,28 @@
 Starting deck: standard rouleur. 3 cards of each value (3,4,5,6,7)
 
 ## Introduction Campaign
-Play a standard Grand Tour as described in these rules, with this modifier: The points awarded for the General Classification (Time tracking) are doubled
+Play a standard Grand Tour as described in these rules, with this modifier: The points awarded for the General Classification (Time tracking) are doubled.
 
 ## Talents
 
 ### Level 1
 
-- Power save: You can always decide to play no card and to 'do 3'. You recycle the 4 cards in this case.
-- Stamina: Your exhaustion cards value is now 3
-- Second breath: Between races, remove 3 exhaustion cards from your deck
+- **Power save**: You can always decide to play no card and to 'do 3'. You recycle the 4 cards in this case.
+- **Stamina**: Your exhaustion cards value is now 3
+- **Second breath**: Between races, remove 3 exhaustion cards from your deck
 
 ### Level 2
 
-- Rest: If you are moving forward the minimum value in descent (5) or in supply zone (4), get back a card already played and recycle it
-- Breakaway racer: If you start your turn in a pack of less than half of the riders, add 1 to the value of your card.
-- Chasing racer: If you start your turn not in the first pack, add 1 to the value of your card.
+- **Rest**: If you are moving forward the minimum value in descent (5) or in supply zone (4), get back a card already played and recycle it
+- **Breakaway racer**: If you start your turn in a pack of less than half of the riders, add 1 to the value of your card.
+- **Chasing racer**: If you start your turn not in the first pack, add 1 to the value of your card.
 
 
 ### Level 3
 
-- Roule, Roule: Add a card 7 to your deck
-- Specialization Sprinteur: Your cards 7 do 9
-- Specialization climber: You can move up to 7 in ascents
+- **Roule, Roule**: Add a card 7 to your deck
+- **Specialization Sprinteur**: Your cards 7 do 9
+- **Specialization climber**: You can move up to 7 in ascents
 
 
 ## Precisions

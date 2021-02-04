@@ -25,6 +25,7 @@ Conseil pratique : avoir plusieurs dés de couleurs différentes permet d'accél
 
 ## Les équipiers
 
+Vous avez 2 équipiers qui partagent le même deck.
 Pendant la phase d'énergie, considérez les équipiers comme un deuxième coureur. Comme dans le jeu de base, vous choisissez si vous voyez d'abord les cartes de votre coureur principal ou de vos équipiers.
 
 Lorsque vous choisissez les cartes pour vos équipiers, piochez 6 cartes dans le deck. Vous devez choisir 2 cartes parmi les 6. Défaussez les cartes non-jouées, comme d'habitude.
