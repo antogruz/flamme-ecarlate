@@ -1,6 +1,9 @@
 #!/bin/bash
 
 out="reglesCoureursDeLegende.md"
+rm $out
 
-cat legendes/presentation legendes/preparation reglesCourses legendes/tour legendes/rouleur legendes/sprinteur > $out
+for f in presentation preparation reglesCourses tour rouleur sprinteur ; do
+    cat legendes/$f >> $out
+done
 
