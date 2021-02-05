@@ -1,4 +1,4 @@
-#Setup
+# Setup
 
 1. Pick a rider and prepare his deck. Don't forget to add a number of exhaustion cards depending on the difficulty you aim. By default add 2 exhaustion cards.
 

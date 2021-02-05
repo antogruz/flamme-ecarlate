@@ -1,4 +1,4 @@
-#Règles d'une course
+# Règles d'une course
 
 Lors d'une course, votre équipe suit les règles classiques du jeu de base, en utilisant 2 decks de cartes. Un pour votre coureur, et un pour vos 2 équipiers.
 

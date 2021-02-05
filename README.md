@@ -1,8 +1,8 @@
-#Coureurs de légende
+# Coureurs de légende
 
 Dans ce mode de jeu solo, vous allez incarner un coureur de légende porté par ses équipiers pendant un grand tour. Au fur et à mesure des courses, votre coureur développera de nouvelles capacités, et tentera d'entrer dans la légende ! Vos équipiers tâcheront de vous aider dans cette épopée comme ils le peuvent, mais toute l'équipe sait que c'est vous, l'étoile qui pourra briller !
 
-#Préparation
+# Préparation
 
 1. Choisissez un coureur principal, un pion cycliste qui le représente, et préparez son deck (N'oubliez pas d'ajouter un nombre de cartes fatigues correspondant à la difficulté. Par défaut, 2 cartes)
 
@@ -16,7 +16,7 @@ Dans ce mode de jeu solo, vous allez incarner un coureur de légende porté par 
 
 Vous êtes maintenant prêt à démarrer la première course !
 
-#Règles d'une course
+# Règles d'une course
 
 Lors d'une course, votre équipe suit les règles classiques du jeu de base, en utilisant 2 decks de cartes. Un pour votre coureur, et un pour vos 2 équipiers.
 
@@ -193,10 +193,10 @@ Dans cette variante, vous jouez un grand tour de 3 courses. Choisissez un talent
 
 > Une variante de Flamme Rouge par Antoine Gruzelle. N'hésitez pas à la partager à condition de citer la source.
 
-#Legendary riders
+# Legendary riders
 
 In this solo game set up, you will be playing as a legendary rider, driven to the victory by his teammates during a Grand Tour. All along the races, your rider will get new abilities and will try to become part of the legend! Your teammates will try to help you in this epic as they can, but the whole team knows that YOU are the star that can shine!
-#Setup
+# Setup
 
 1. Pick a rider and prepare his deck. Don't forget to add a number of exhaustion cards depending on the difficulty you aim. By default add 2 exhaustion cards.
 
@@ -210,11 +210,11 @@ In this solo game set up, you will be playing as a legendary rider, driven to th
 
 You are now ready to start the first race!
 
-#Rules of a race
+# Rules of a race
 
 During a race, your team follows the standard rules of flamme rouge, using 2 decks of cards. One is for your rider, the other is for your 2 teammates.
 
-##Starting positions
+## Starting positions
 
 Randomly select a team that place one of its riders. Do that again until all riders have been placed.
 

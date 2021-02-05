@@ -1,4 +1,4 @@
-#Préparation
+# Préparation
 
 1. Choisissez un coureur principal, un pion cycliste qui le représente, et préparez son deck (N'oubliez pas d'ajouter un nombre de cartes fatigues correspondant à la difficulté. Par défaut, 2 cartes)
 

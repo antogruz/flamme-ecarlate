@@ -1,8 +1,8 @@
-#Rules of a race
+# Rules of a race
 
 During a race, your team follows the standard rules of flamme rouge, using 2 decks of cards. One is for your rider, the other is for your 2 teammates.
 
-##Starting positions
+## Starting positions
 
 Randomly select a team that place one of its riders. Do that again until all riders have been placed.
 
