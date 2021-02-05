@@ -1,9 +1,11 @@
 #!/bin/bash
 
 function main {
-    generate "reglesCoureursDeLegende.md" legendes/fr
-    generate "rulesLegendaryRiders.md" legendes/en
-
+    fr="reglesCoureursDeLegende.md"
+    en="rulesLegendaryRiders.md"
+    generate $fr legendes/fr
+    generate $en legendes/en
+    cat $fr $en > README.md
 }
 
 function generate {
