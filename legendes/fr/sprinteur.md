@@ -9,8 +9,8 @@ Deck de départ : un deck de sprinteur classique, 3 cartes de chaque valeur (2, 
 
 ### Niveau 1
 
- - **Un peu plus** : Une fois dans la partie, au moment de vous déplacer, ajoutez un à votre carte
- - **Échapée** : Si vous êtes en tête d'un groupe au début du tour (à gauche ou à droite), vous n'aspirez personne à la fin du tour
+ - **Un peu plus** : Une fois dans la partie, au moment de vous déplacer, ajoutez 1 à votre carte
+ - **Échapée** : Si vous êtes en tête d'un groupe au début du tour (à gauche ou à droite), personne ne bénéficie de votre aspiration à la fin du tour
  - **Clarté** : Vous piochez toujours 5 cartes au lieu de 4
 
 ### Niveau 2
