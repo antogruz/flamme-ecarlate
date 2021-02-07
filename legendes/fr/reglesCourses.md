@@ -17,7 +17,7 @@ Vous jouez contre 3 équipes composées d'un rouleur et d'un sprinteur. Ne prép
 - Sprinteur :  Entre 1 et 5 -> Ajoutez 1 au dé ; Sur un 6 -> obtenez 10
 
 Tout se passe ensuite comme si cet adversaire avait joué une carte de cette valeur. Appliquez normalement les règles de montagne, de ravitaillement, etc.
-Attention : Vous remarquerez que les adversaires ont en moyenne des meilleurs résultats que vous. Vous devrez donc jouez intelligemment pour compenser.
+Attention : Vous remarquerez que les adversaires ont en moyenne des meilleurs résultats que vous. Vous devrez donc jouer intelligemment pour compenser.
 
 Vos adversaires suivent les règles classiques lors de la phase finale, mais ils ignorent les cartes fatigue qu'ils devraient recevoir.
 

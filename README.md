@@ -4,9 +4,9 @@ Dans ce mode de jeu solo, vous allez incarner un coureur de légende porté par 
 
 # Préparation
 
-1. Choisissez un coureur principal, un pion cycliste qui le représente, et préparez son deck (N'oubliez pas d'ajouter un nombre de cartes fatigues correspondant à la difficulté. Par défaut, 2 cartes)
+1. Choisissez un coureur principal, un pion cycliste qui le représente, et préparez son deck (N'oubliez pas d'ajouter un nombre de cartes fatigue correspondant à la difficulté. Par défaut, 2 cartes)
 
-2. Choisissez un deck pour vos équipiers : soit rouleur, soit sprinteur, et prenez 2 pions (qui peuvent être indissociables) pour les représenter.
+2. Choisissez un deck pour vos équipiers : soit rouleur, soit sprinteur, et prenez 2 pions (qui peuvent être identiques) pour les représenter.
 
 3. Prenez 3 duos de pions cyclistes pour représenter vos adversaires.
 
@@ -35,7 +35,7 @@ Vous jouez contre 3 équipes composées d'un rouleur et d'un sprinteur. Ne prép
 - Sprinteur :  Entre 1 et 5 -> Ajoutez 1 au dé ; Sur un 6 -> obtenez 10
 
 Tout se passe ensuite comme si cet adversaire avait joué une carte de cette valeur. Appliquez normalement les règles de montagne, de ravitaillement, etc.
-Attention : Vous remarquerez que les adversaires ont en moyenne des meilleurs résultats que vous. Vous devrez donc jouez intelligemment pour compenser.
+Attention : Vous remarquerez que les adversaires ont en moyenne des meilleurs résultats que vous. Vous devrez donc jouer intelligemment pour compenser.
 
 Vos adversaires suivent les règles classiques lors de la phase finale, mais ils ignorent les cartes fatigue qu'ils devraient recevoir.
 
@@ -97,7 +97,7 @@ Pour chaque étape, vous marquez des points si vous finissez dans le trio de tê
 - 2e  -> 2 points
 - 3e  -> 1 point
 
-À la fin du tour, vous marquez des points en fonction de votre classement au temps :
+À la fin du grand tour, vous marquez des points en fonction de votre classement au temps :
 - 1er -> 5 points
 - 2e  -> 4 points
 - 3e  -> 3 points

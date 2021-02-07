@@ -1,8 +1,8 @@
 # Préparation
 
-1. Choisissez un coureur principal, un pion cycliste qui le représente, et préparez son deck (N'oubliez pas d'ajouter un nombre de cartes fatigues correspondant à la difficulté. Par défaut, 2 cartes)
+1. Choisissez un coureur principal, un pion cycliste qui le représente, et préparez son deck (N'oubliez pas d'ajouter un nombre de cartes fatigue correspondant à la difficulté. Par défaut, 2 cartes)
 
-2. Choisissez un deck pour vos équipiers : soit rouleur, soit sprinteur, et prenez 2 pions (qui peuvent être indissociables) pour les représenter.
+2. Choisissez un deck pour vos équipiers : soit rouleur, soit sprinteur, et prenez 2 pions (qui peuvent être identiques) pour les représenter.
 
 3. Prenez 3 duos de pions cyclistes pour représenter vos adversaires.
 

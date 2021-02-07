@@ -36,7 +36,7 @@ Pour chaque étape, vous marquez des points si vous finissez dans le trio de tê
 - 2e  -> 2 points
 - 3e  -> 1 point
 
-À la fin du tour, vous marquez des points en fonction de votre classement au temps :
+À la fin du grand tour, vous marquez des points en fonction de votre classement au temps :
 - 1er -> 5 points
 - 2e  -> 4 points
 - 3e  -> 3 points
