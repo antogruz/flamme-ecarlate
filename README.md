@@ -161,7 +161,7 @@ Deck de départ : un deck de sprinteur classique, 3 cartes de chaque valeur (2, 
 
  - **Super sprint** : Vos 9 font 12
  - **Sprint en montagne** : Vos 9 font 7 en montagne
- - **Attaque en descente** : Si vous jouez un 9 en zone bleue, ajoutez en 5 (descente) ou un 4 (ravitaillement) à votre défausse
+ - **Attaque en descente** : Si vous jouez un 9 en zone bleue, ajoutez un 5 (descente) ou un 4 (ravitaillement) à votre défausse
 
 ### Niveau 3
 
