@@ -10,7 +10,7 @@ Jouez un grand tour comme décrit dans les règles. Les points gagnés pour le c
 ### Niveau 1
 
  - **Économie d'énergie** : Vous pouvez toujours décider de ne pas jouer de carte et de faire 3. Défaussez alors les 4 cartes.
- **- Endurance** : Vos cartes fatigue font 3
+ - **Endurance** : Vos cartes fatigue font 3
  - **Second souffle** : Entre 2 étapes, enlevez 3 cartes fatigue de votre deck
 
 ### Niveau 2
@@ -22,8 +22,8 @@ Jouez un grand tour comme décrit dans les règles. Les points gagnés pour le c
 ### Niveau 3
 
  - **Roule, Roule** : Ajoutez une carte 7 à votre deck de départ
- - **Specialisation sprinteur** : Vos cartes 7 font 9
- - **Specialisation grimpeur** : Vous pouvez avancer de 7 en montagne.
+ - **Spécialisation sprinteur** : Vos cartes 7 font 9
+ - **Spécialisation grimpeur** : Vous pouvez avancer de 7 en montagne.
 
 
 ## Précisions
