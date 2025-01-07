@@ -1,0 +1,29 @@
+On fait un grand tour avec des coureurs un peu spécifiques.
+
+On fait n courses.
+Il y a des points pour le maillot jaune: n, n-1, n-2, ..., 1.
+Il y a des points pour le maillot à pois: n-2, n-3, ..., 1.
+Il y a des points pour les sprints intermédiaires (1 point chaque)
+
+Points des cols:
+Cases - Catégorie - Points
+5/6  - 4 - 1
+7/8  - 3 - 2/1
+9/10 - 2 - 5/3/2/1
+11+  - 1 - 10/8/6/4/2/1
+
+Il y a j joueurs, donc 2j coureurs. On prend 1/3 rouleurs, 1/3 sprinteurs, 1/3 grimpeurs
+
+On leur associe à chacun un pouvoir (dès le début?)
+
+Liste des pouvoirs:
+- Dépassement
+- Quand on joue une fatigue, on écarte toutes les autres qu’on a en main
+- Échappé: Si dans un groupe de moins de la moitié des coureurs, +1
+- Poursuivant: Si pas dans le groupe de tête, +1
+- Imblocable: Vous jouez toujours avant les autres coureurs
+- Roi du peloton: Vous pouvez toujours prendre l’aspiration
+- Baroudeur: La première déplacement qui passe par chaque col fait avancer d’une case de plus (et peut donc atteindre 6 par exemple)
+- Remontée de peloton: Prend l’aspiration même au sein d’un groupe
+
+Poisson pilote - Ne bloque pas ses équipiers

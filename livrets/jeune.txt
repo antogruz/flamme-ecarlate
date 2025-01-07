@@ -1,0 +1,12 @@
+Celui-ci est bien moins fort que les autres concurrents, mais ses performances sont d’autant plus appréciées !
+
+Deck de départ: (2, 3, 4, 5, 6) x3
+Le jeune ne concourre pas pour le maillot jaune mais pour le meilleur jeune.
+L’enjeu sera donc de ne pas se faire larguer, et de réussir à arriver avec le peloton par exemple.
+Pour représenter cela, son temps à chaque course est réduit de 2 minutes. Il marque des points à l’arrivée pour chaque coureur d’une autre équipe qu’il a battu.
+
+
+Entrainement au peloton: Si vous bénéficiez de l’aspiration au moins une fois pendant le tour, avancez ensuite d’une case supplémentaire s’il y a la place.
+Inlarguable: Vous bénéficiez toujours de l’aspiration
+Combattif: Vous ne prenez plus de carte fatigue
+Progression: Chaque fois que vous jouez toutes vos cartes les plus faibles dans une course, retenez 1. Avant une course, dépensez définitivement vos retenues et ce pouvoir pour augmenter la valeur de ces 3 cartes de la retenue.

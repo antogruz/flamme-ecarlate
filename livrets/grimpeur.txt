@@ -1,0 +1,5 @@
+Celui là est bon dans les longs cols.
+
+Deck de base (3, 4, 5, 6, 7) * 2 + 5 * 5
+
+

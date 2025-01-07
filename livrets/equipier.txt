@@ -1,0 +1,15 @@
+Celui là aide ses coéquipiers. Il est éliminé plus difficilement.
+
+Deck de départ: rouleur. Mais ses 3 font 1 de moins (après règles spéciales) mais augmente de 1 la carte d’un allié au choix (au moment de le déplacer). Par exemple, jouer un 3 en descente ne fera avancer que de 4 cases.
+L’équipier n’est pas éliminé si un de ses alliés est dans le top 3
+L’équipier peut dépenser les points gagnés par ses alliés comme si c’étaient les siens
+
+Déclencheur de sprint: Les cartes les plus fortes de vos alliés font +1 si vous êtes adjacent.
+Remontée de peloton: Après l’aspiration,  si vous êtes juste devant un allié dans le peloton (plus grand groupe), et qu’il y a une place devant vous, avancez tous les deux d’une case (1 allié max)
+Poisson-pilote: Après la phase de fatigue, vous pouvez échanger de place avec un allié adjacent. Vous ne bloquez jamais vos équipiers.
+Porteur d’eau:
+
+
+
+
+

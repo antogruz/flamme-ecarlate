@@ -1,0 +1,20 @@
+Faisons des archétypes de sprinteur. Celui-là reste bien au chaud dans le peloton et se prépare à sortir au bon moment, pour gagner l’étape.
+
+Deck de base: sprinteur classique
+Passif: S’il y a 3 cartes ou moins dans le deck, elles font +1
+
+Récupération active: si on avance du minimum en ravitaillement ou en descente, on peut augmenter de 1 une carte de sa main.
+Remontée de peloton: Prend l’aspiration même au sein d’un groupe
+Se faufiler: S’il joue 5 ou moins, il ne peut pas être bloqué (se met sur la gauche s’il faut)
+Inlarguable: (aspiré à 2 cases sauf par une échappée)
+
+Régularité: Remplacer un 9 par trois 5
+Super sprint: Les 9 font 11
+Final: S’il y a 4 cartes ou moins dans le deck, les cartes font +2
+
+
+Il peut avoir du mal à s’échapper et aura donc besoin d’équipiers qui tirent le peloton.
+Si l’échappée est tardive il peut cependant la rejoindre avec un de ses 9 s’il a eu le temps de rester tranquilement dans le peloton pour éviter les fatigues ou préparer sa récupération active.
+
+Pourquoi faire des paliers de talent ? Dans heroes of the storm il y a clairement une question de timing dans la partie (On ne peut pas avoir dès le début certains pouvoirs). Pour flamme rouge et un grand tour, pas sûr que ça ait du sens. D’un autre côté ça permet de proposer différentes façons de faire le même genre de chose (rester facilement dans le peloton, préparer un sprint...) et de contrôler que les différents talents d’un même palier soit de force équivalente, tout en laissant la
+possibilité de déséquilibre entre les paliers de talents.

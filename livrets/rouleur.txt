@@ -1,0 +1,11 @@
+Celui-ci roule, roule, roule. C’est un marathonien, endurant, qui va gagner dans la durée.
+Passif: Marque le même temps que le meilleur qui arrive dans le même tour que lui
+
+Deck de base: rouleur classique
+
+En garder sous la pédale: Quête. Les cartes non-fatigue restantes après une course sont définitivement augmentée de 1.
+Endurance à la fatigue: Quête. Jouer des cartes fatigue. Entre 2 courses, enlevez du deck autant de carte fatigue que le total des cartes fatigue jouées
+Effort prolongé: Les cartes fatigue font 3
+
+Tireur de peloton: Si vous êtes en tête du groupe le plus grand, +1 à votre carte
+Échappé: Si vous êtes dans un groupe de tête de moins de la moitié des coureurs, +1 à votre carte

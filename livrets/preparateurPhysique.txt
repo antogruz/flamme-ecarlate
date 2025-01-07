@@ -1,0 +1,10 @@
+Cela introduit le principe d’entraîneur qui est en plus des coureurs et peut gagner des niveaux également.
+Préparateur physique.
+
+Le palier 1 ajoute des cartes à usage unique dans les decks des joueurs. Si elles ne sont pas jouées, elle restent d’une course à l’autre.
+Palier 1 - Au début de chaque course...
+Troisième souffle: ajoutez un 4 au deck de chaque coureur
+Second souffle: ajoutez un 5 aux decks de 2 coureurs différents
+Premier souffle: ajoutez un 6 au deck d’un coureur
+
+Palier 2
