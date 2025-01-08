@@ -1,0 +1,15 @@
+Il peut se réserver pour une étape particulière. C'est un vainqueur d'étape.
+
+Passif: Choisissez un deck de base rouleur ou sprinteur. Gardez seulement 2 cartes de chaque hauteur de votre couleur, et ajoutez une carte de chaque hauteur de 2 couleurs différentes à votre deck. Par exemple, pour le rouleur vert, votre deck sera:
+    2x (3vert, 4vert, 5vert, 6vert, 7vert)
+    1x (3rouge, 4rouge, 5rouge, 6rouge, 7rouge)
+    1x (3bleu, 4bleu, 5bleu, 6bleu, 7bleu)
+
+Entre les courses, vous récupérez dans votre deck toutes les cartes vertes jouées. Mais pour chaque autre couleur, vous ne les récupérez que si toutes les cartes de la couleur sont jouées. Dans le cas contraire, elles restent dans vos cartes jouées et pourront éventuellement être récupérées après une course future si toute la couleur a été jouée.
+
+Talents:
+
+Baroudeur: Dans chaque col, la première carte jouée qui y passe fait 1 supplémentaire (jusqu'à 6 en montagne)
+Super Opportuniste: Gagnez une carte de chaque d'une couleur supplémentaire
+Dépassement: Avant l'aspiration, si vous êtes à gauche, avancez jusqu'à être bloqué ou vous rabattre à droite.
+
