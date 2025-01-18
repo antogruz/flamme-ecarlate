@@ -8,3 +8,6 @@ Second souffle: ajoutez un 5 aux decks de 2 coureurs différents
 Premier souffle: ajoutez un 6 au deck d’un coureur
 
 Palier 2
+Endurance: Entre chaque course, enlevez 4 fatigue des decks de vos coureurs (choisissez la répartition)
+Fractionné: Chaque course, vous pouvez une fois ajouter 1 à la carte jouée de vos trois coureurs.
+Sprint: Augmentez définitivement de 1 une des meilleures cartes de chacun de vos coureurs.

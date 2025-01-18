@@ -1,16 +1,16 @@
 Faisons des archétypes de sprinteur. Celui-là reste bien au chaud dans le peloton et se prépare à sortir au bon moment, pour gagner l’étape.
 
 Deck de base: sprinteur classique
-Passif: S’il y a 3 cartes ou moins dans le deck, elles font +1
+#Passif: S’il y a 3 cartes ou moins dans le deck, elles font +1
 
-Récupération active: si on avance du minimum en ravitaillement ou en descente, on peut augmenter de 1 une carte de sa main.
 Remontée de peloton: Prend l’aspiration même au sein d’un groupe
-Se faufiler: S’il joue 5 ou moins, il ne peut pas être bloqué (se met sur la gauche s’il faut)
+Se faufiler: Joue toujours le premier de son groupe
 Inlarguable: (aspiré à 2 cases sauf par une échappée)
 
+Final: S’il y a 4 cartes ou moins dans le deck, les cartes font +2
+Récupération active: si on avance du minimum en ravitaillement ou en descente, on peut augmenter de 1 une carte de sa main.
 Régularité: Remplacer un 9 par trois 5
 Super sprint: Les 9 font 11
-Final: S’il y a 4 cartes ou moins dans le deck, les cartes font +2
 
 
 Il peut avoir du mal à s’échapper et aura donc besoin d’équipiers qui tirent le peloton.

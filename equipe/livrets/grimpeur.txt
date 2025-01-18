@@ -2,4 +2,10 @@ Celui là est bon dans les longs cols.
 
 Deck de base (3, 4, 5, 6, 7) * 2 + 5 * 5
 
+Accélération en col: Une fois par course, ignorez la limite de 5 cases en montagne
+Imblocable: En montagne, jouez avant tous les coureurs. Seuls vos équipiers peuvent se placer sur les autres couloirs de votre case.
+Cols en équipe: Vous êtes aspiré en montagne et aspirez vos alliés
 
+Récupération: Quand vous jouez une carte 3 ou moins, enlevez une fatigue de votre défausse.
+Cols en solo: Vous ne prenez pas de fatigue si vous êtes en montagne
+Descente de col: Vous avancez de 6 minimum en descente, ou vous ajoutez 2 à votre carte.
