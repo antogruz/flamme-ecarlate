@@ -1,0 +1,10 @@
+- Quand tout le monde va trop vite, ce n'est plus le même jeu. On voudrait que la cadence ne soit pas plus rapide pour les bots, tout en améliorant les coureurs. On voudrait proposer plus de challenge, mais en respectant les principes d'une course (moments d'attente, choisir son attaque...). L'approche actuelle des dés force trop à juste suivre des coureurs qui sont toujours en train de foncer, il n'y a pas trop de place pour juste rester tranquille dans le peloton.
+  * Une approche serait que les bots n'aillent pas plus vite en moyenne que d'habitude, mais que les circuits soient de plus en plus longs, et que eux ne s'essouflent pas.
+  * On pourrait également compenser l'augmentation en taille de circuit en ajoutant des cartes faibles (3?) au deck de base des coureurs au fur et à mesure,
+  * Ou bien simplement forcer les joueurs à gagner un maximum de cases, pour pouvoir finir la course. Ce qui force par exemple à toujours faire 4 dans les ravitaillements.
+  * On pourrait avoir différentes stratégies de bots qui respectent les grands principes de flamme rouge, ce qui éviterait que les bots aillent toujours trop vite.
+  * On pourrait diminuer les cartes des coureurs au fur et à mesure qu'ils gagnent des compétences ? Mauvaise impression, et ça revient un peu au même à augmenter la taille de la course, pour forcer les joueurs à utiliser leurs pouvoirs pour compenser.
+
+
+- Les dés sont hasardeux, mais les cartes sont lourdes à gérer.
+
