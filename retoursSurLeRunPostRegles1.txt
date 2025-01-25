@@ -1,0 +1,13 @@
+- Le pouvoir "final" ne convient pas, il y a trop peu de chance de pouvoir l'utiliser. Il faut ajouter un deuxième cercle (ex: +1 quand il reste moins de 7 cartes, +2 quand il reste moins de 4 cartes.
+
+- Le fait d'ajouter une case par course est un bon moyen de doser, mais ça ne suffit pas du tout à rendre les coureurs adverses plus forts. On gagne trop facilement
+
+- Je pense à un deck d'adversaires, qui vient en plus des dés, et qui ajoute des cartes qui overrulent le dé. À chaque tour on ne tire qu'une carte. Exemples:
+   - C'est un 9 rouge. Le sprinteur rouge avance de 9 indépendamment de son dé
+   - C'est une fatigue: Les coureurs qui auraient dû prendre une fatigue au tour d'avant n'avancent que de 2.
+   - C'est une attaque du peloton: Les deux derniers coureurs font au moins 6
+   - C'est une carte neutre faible. On jette un dé + 1 pour chaque coureur
+   - C'est une carte neutre forte. On jette un dé + 2 pour chaque coureur
+
+   Le deck évoluerait au fur et à mesure des courses, pour que les adversaires progressent en même temps que le joueur
+
