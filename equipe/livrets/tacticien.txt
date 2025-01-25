@@ -1,0 +1,11 @@
+C'est un entraineur qui planifie et qui donne des bonus divers de logistique:
+
+- augmente la limite de cartes en main à 5 cartes.
+- Avant une course, générez 2 étapes et choisissez celle que vous voulez
+- Avant chaque course, sortez une carte du paquet de chaque coureur. Vous pouvez utiliser cette carte à la place d'une de vos cartes en main à n'importe quel tour de jeu. La carte va alors avec les cartes jouées.
+- Lancez les dés des 2 premiers coureurs / Tirez la carte du deck adversaire avant de jouer vos cartes.
+- Pour le placement des coureurs au départs, transformez votre moins bon dé en 6.
+- Ravitaillement efficace: Les ravitaillements donnent un minimum de 5 à vos coureurs.
+
+
+
