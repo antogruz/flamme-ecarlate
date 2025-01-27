@@ -1,0 +1,5 @@
+Celui là est moins robuste à la fatigue, au contraire.
+Il va essayer de suivre les échappées par exemple.
+
+Attaques régulières: Après avoir mélangé votre deck, +1 à votre carte
+Sangsue: Vous êtes aspiré à 2 cases par le 1er groupe.

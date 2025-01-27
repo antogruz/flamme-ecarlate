@@ -1,3 +1,7 @@
+- On gagne trop facilement. J’ai fini 1er 2eme 3eme au temps et au meilleur grimpeur. En tout 76 points en 10 courses.
+- Trop d’adversaires sont largués ce qui fait que beaucoup d’adversaires ne jouent plus dans le classement au temps.
+
+
 - Le pouvoir "final" ne convient pas, il y a trop peu de chance de pouvoir l'utiliser. Il faut ajouter un deuxième cercle (ex: +1 quand il reste moins de 7 cartes, +2 quand il reste moins de 4 cartes -> J'ai fait ça et c'était vraiment fun
 
 - J'ai pris les pouvoirs suivants:
@@ -6,8 +10,23 @@
         Final: C'est un bon pari d'essayer de limiter au maximum les fatigue.
 
     - Rouleur:
-        Endurance à la fatigue: Ça prend du temps à faire mais ça récompense bien le style de jeu fatigue. Je ne sais pas encore si c'était trop fort. En tout cas
+        Endurance à la fatigue: Ça prend du temps à faire mais ça récompense bien le style de jeu fatigue. Je ne sais pas encore si c'était trop fort. Ça semble plus fort que les 2 autres options?
+        Poursuivant: C’était bien. Ça incite à ne pas s’échapper, et ce n’est pas si fort parce qu’à un moment il faut quand même rattraper les fugitifs et alors on n’a plus de bonus.
 
+    - Grimpeur:
+        Imblocable: Ça avait l’air pas terrible, mais c’était assez intéressant pour remonter les cols petit à petit. Ça illustre bien les grands cols justement.
+        Récupération: Pas mal
+
+    - Préparateur Physique:
+        Second Souffle: Ça a l’air d’être vraiment le plus fort de donner deux 5. À la fin c’était génânt pour le sprinteur car on voulait le moins de carte possible
+        Endurance: C’était utile pour le sprinteur.
+
+
+Finalement j’ai pris beaucoup de pouvoirs liés aux cartes fatigue. Ça change un peu la donne du coup puisqu’on paie moins cher le fait de tenter de gagner des courses.
+
+- Les pouvoirs qui modifient des cartes sont assez pénibles à implémenter en jeu physique. Par exemple:
+   - Sprint du préparateur physique
+   - Récupération active du sprinteur
 
 
 - Le fait d'ajouter une case par course est un bon moyen de doser, mais ça ne suffit pas du tout à rendre les coureurs adverses plus forts. On gagne trop facilement. Mais on ne veut pas non plus que tout le monde aille trop vite tout le temps.
