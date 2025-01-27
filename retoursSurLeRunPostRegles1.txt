@@ -1,6 +1,18 @@
-- Le pouvoir "final" ne convient pas, il y a trop peu de chance de pouvoir l'utiliser. Il faut ajouter un deuxième cercle (ex: +1 quand il reste moins de 7 cartes, +2 quand il reste moins de 4 cartes.
+- Le pouvoir "final" ne convient pas, il y a trop peu de chance de pouvoir l'utiliser. Il faut ajouter un deuxième cercle (ex: +1 quand il reste moins de 7 cartes, +2 quand il reste moins de 4 cartes -> J'ai fait ça et c'était vraiment fun
 
-- Le fait d'ajouter une case par course est un bon moyen de doser, mais ça ne suffit pas du tout à rendre les coureurs adverses plus forts. On gagne trop facilement
+- J'ai pris les pouvoirs suivants:
+    - Sprinteur:
+        Remontée de peloton: Ça a vraiment bien fonctionné. Ce n'était pas trop fort et ça encourage à rester là où il y a du monde.
+        Final: C'est un bon pari d'essayer de limiter au maximum les fatigue.
+
+    - Rouleur:
+        Endurance à la fatigue: Ça prend du temps à faire mais ça récompense bien le style de jeu fatigue. Je ne sais pas encore si c'était trop fort. En tout cas
+
+
+
+- Le fait d'ajouter une case par course est un bon moyen de doser, mais ça ne suffit pas du tout à rendre les coureurs adverses plus forts. On gagne trop facilement. Mais on ne veut pas non plus que tout le monde aille trop vite tout le temps.
+
+### Réflexions pour que les adversaires suivent le rythme
 
 - Je pense à un deck d'adversaires, qui vient en plus des dés, et qui ajoute des cartes qui overrulent le dé. À chaque tour on ne tire qu'une carte. Exemples:
    - C'est un 9 rouge. Le sprinteur rouge avance de 9 indépendamment de son dé
@@ -11,3 +23,16 @@
 
    Le deck évoluerait au fur et à mesure des courses, pour que les adversaires progressent en même temps que le joueur
 
+
+- On peut aussi utiliser les équipes muscles et peloton et leur faire gagner des 7 et des 9 quand ils s'améliorent. Ça me semble un peu plus difficile de gérer les decks pendant la course.
+
+- Si on garde les dés, on pourrait démarrer par:
+   Rouleur:
+     a) dé + 1, avec 1 -> 2 ou 7 selon fatigue
+     b) dé + 2
+     c) à définir
+   Sprinteur:
+     a) dé + 1 et 6 -> 10
+     b) idem mais 1 -> 5
+     c) idem mais 1 -> 10
+    On ferait les 3 premières courses avec a), les 3 suivantes avec b), les 4 dernières avec c)
