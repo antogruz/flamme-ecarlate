@@ -3,6 +3,7 @@ C'est un sprinteur qui bombarde. Il utilise plutôt ces 9 pour des moments clés
 Les 9 font 7 en montagne
 Attaque en descente
 Les 9 font 8: Ajoutez un 9 à votre deck
+Les deux premiers 9 que vous jouez font 13. Le 3ème fait 5 ; ou bien: à chaque course, un de vos 9 fait 5 et les deux autres 13. Choisissez au moment de le jouer.
 
 Échappée + 3: Une fois par course, après que tout le monde à bougé mais avant l'aspiration, avancez de 3 cases.
 
